@@ -9,7 +9,7 @@ from TxDatasetVariable import TxDatasetVariable
 from TxDatasetStorageFile import TxDatasetStorageFile
 
 
-DataURLRoot='D:\\dev\opencenter\\source\\services\\svc_analyzer\\dataset\\';
+DataURLRoot='D:\\dataset\\';
 class TxDatasetStream(IxStream):
 
 	def __init__(self,id,state,datatype):
